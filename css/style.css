@@ -7670,7 +7670,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 2px;
   font-size: 20px;
   float: left !important;

@@ -1,5 +1,4 @@
-# rishabhs95.github.io
-a static web portfolio
+# Static Web Portfolio
 
 Template Credits:
 http://freehtml5.co/
