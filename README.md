@@ -1,2 +1,5 @@
 # rishabhs95.github.io
-a static jekyll web portfolio
+a static web portfolio
+
+Template Credits:
+http://freehtml5.co/
